@@ -1,5 +1,5 @@
 /**********************************************
-*CoryRignt (C), 1998-2019 格尔软件
+*Coryrignt (C), 1998-2019 格尔软件
 *FileName: *.cpp
 *Author:	Version:	Date:
 *Description:	//模块描述
